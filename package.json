@@ -9,7 +9,7 @@
     }
   ],
   "main": "lib/module.js",
-  "repository": "madmod/nuxt-view-select",
+  "repository": "madmod/nuxt-vue-select",
   "publishConfig": {
     "access": "public"
   },

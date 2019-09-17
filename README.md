@@ -51,11 +51,11 @@ Copyright (c) madmodmail@gmail.com
 [npm-downloads-src]: https://img.shields.io/npm/dt/nuxt-vue-select.svg?style=flat-square
 [npm-downloads-href]: https://npmjs.com/package/nuxt-vue-select
 
-[circle-ci-src]: https://img.shields.io/circleci/project/github/madmod/nuxt-view-select.svg?style=flat-square
-[circle-ci-href]: https://circleci.com/gh/madmod/nuxt-view-select
+[circle-ci-src]: https://img.shields.io/circleci/project/github/madmod/nuxt-vue-select.svg?style=flat-square
+[circle-ci-href]: https://circleci.com/gh/madmod/nuxt-vue-select
 
-[codecov-src]: https://img.shields.io/codecov/c/github/madmod/nuxt-view-select.svg?style=flat-square
-[codecov-href]: https://codecov.io/gh/madmod/nuxt-view-select
+[codecov-src]: https://img.shields.io/codecov/c/github/madmod/nuxt-vue-select.svg?style=flat-square
+[codecov-href]: https://codecov.io/gh/madmod/nuxt-vue-select
 
 [license-src]: https://img.shields.io/npm/l/nuxt-vue-select.svg?style=flat-square
 [license-href]: https://npmjs.com/package/nuxt-vue-select
