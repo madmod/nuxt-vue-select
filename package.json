@@ -15,6 +15,7 @@
   },
   "scripts": {
     "dev": "nuxt example",
+    "dev-debug": "node --inspect-brk node_modules/.bin/nuxt example",
     "lint": "eslint --ext .js,.vue example lib test",
     "test": "yarn lint && jest",
     "release": "yarn test && standard-version && git push --follow-tags && npm publish"

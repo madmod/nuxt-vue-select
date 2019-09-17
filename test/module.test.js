@@ -1,6 +1,6 @@
 jest.setTimeout(60000)
 
-const { Nuxt, Builder } = require('nuxt-edge')
+const { Nuxt, Builder } = require('nuxt')
 const request = require('request-promise-native')
 const getPort = require('get-port')
 
@@ -27,6 +27,7 @@ describe('basic', () => {
 
   test('render', async () => {
     const html = await get('/')
-    expect(html).toContain('Works!')
+    expect(html).toContain('Vue Select')
+    expect(html).toContain('foo')
   })
 })
