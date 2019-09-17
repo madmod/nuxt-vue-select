@@ -22,7 +22,9 @@
   "files": [
     "lib"
   ],
-  "dependencies": {},
+  "dependencies": {
+    "vue-select": "^3.2.0"
+  },
   "devDependencies": {
     "@babel/core": "latest",
     "@babel/preset-env": "latest",
@@ -36,7 +38,7 @@
     "get-port": "latest",
     "husky": "latest",
     "jest": "latest",
-    "nuxt-edge": "latest",
+    "nuxt": "^2.9.2",
     "request": "latest",
     "request-promise-native": "latest",
     "standard-version": "latest"
